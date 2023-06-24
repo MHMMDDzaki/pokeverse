@@ -1,6 +1,6 @@
 # Project POKEVERSE
 
-Welcome to Project POKEVERSE! This project showcases my skills in React development. It utilizes the Tailwind CSS framework and the React framework with Vite.
+Welcome to Project POKEVERSE! This project showcases my skills in React development. It utilizes the Tailwind CSS framework and the React framework with Vite. The API for that being used in this project is Poke API v2.
 
 ## Running the Project
 
